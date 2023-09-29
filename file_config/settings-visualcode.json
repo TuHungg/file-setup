@@ -1,0 +1,111 @@
+{
+  "sync.gist": "c51e3be33374da8cd4a401e6b6a5ab28",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+  // SET-UP VISUAL CODE
+  "editor.fontLigatures": true,
+  "emmet.includeLanguages": {
+    "javascript ": "javascriptreact",
+    "vue-html": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "editor.lineHeight": 25,
+  "editor.letterSpacing": 0.5,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.suggest.preview": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "editor.bracketPairColorization.enabled": true,
+  "git.autofetch": true,
+  "editor.guides.bracketPairs": true,
+  "editor.stickyScroll.enabled": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "vscode-icons",
+  "prettier.printWidth": 100,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "editor.tabSize": 2,
+  // Custom theme
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#282c34",
+    "activityBar.background": "#282c34",
+    // "sideBar.background": "#282c34",
+    "tab.activeBorder": "#d19a66"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "italic font",
+        "scope": [
+          "comment",
+          "keyword",
+          "storage",
+          "keyword.control",
+          "keyword.control.from",
+          "keyword.control.flow",
+          "keyword.operator.new",
+          "keyword.control.import",
+          "keyword.control.export",
+          "keyword.control.default",
+          "keyword.control.trycatch",
+          "keyword.control.conditional",
+          "storage.type",
+          "storage.type.class",
+          "storage.modifier.tsx",
+          "storage.type.function",
+          "storage.modifier.async",
+          "variable.language",
+          "variable.language.this",
+          "variable.language.super",
+          "meta.class",
+          "meta.var.expr",
+          "constant.language.null",
+          "support.type.primitive",
+          "entity.name.method.js",
+          "entity.other.attribute-name",
+          "punctuation.definition.comment",
+          "text.html.basic entity.other.attribute-name",
+          "tag.decorator.js entity.name.tag.js",
+          "tag.decorator.js punctuation.definition.tag.js",
+          "source.js constant.other.object.key.js string.unquoted.label.js"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "oneDarkPro.bold": true,
+  "oneDarkPro.vivid": true,
+  "terminal.integrated.gpuAcceleration": "off",
+  "workbench.colorTheme": "One Dark Pro",
+  "window.commandCenter": true,
+  "editor.linkedEditing": true,
+  "editor.fontSize": 13,
+  "python.defaultInterpreterPath": "c:\\Users\\hungh\\myenv\\Scripts\\python.exe"
+}
